@@ -2,8 +2,11 @@
   "name": "rept",
   "displayName": "rePT",
   "description": "Copy open file paths to clipboard",
+  "publisher": "ryanraposo",
+  "author": {"email": "raposo.ryan@gmail.com", "name": "ryanraposo", "url":"https://github.com/ryanraposo"},
   "version": "0.0.1",
   "repository": {"url": "https://github.com/ryanraposo/rePT/"},
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.58.0"
   },
